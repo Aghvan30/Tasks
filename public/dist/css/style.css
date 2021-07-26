@@ -1,0 +1,25 @@
+.box{
+    width: 270px;
+    height: 320px;
+    margin: 15px 0 0 15px;
+    display: inline-flex;
+    flex-direction: row;
+    background-color: #6c757d;
+
+
+}
+.box:hover{
+    box-shadow: 3px 5px 5px 3px #000000;
+}
+
+
+
+
+.box1 p{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    flex-direction: column;
+
+}
+
